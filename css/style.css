@@ -60,6 +60,19 @@ section #repeat {
 #chocolate {
     display: inline-block;
 }
-#chocolate p 
+#chocolate p {
+margin-top: 0;
 
+}
+#chocolate h1{
+    margin-bottom: 0;
+}
+form{
+    height: 240px;
+background-image: url("https://github.com/LTUC/amman-201d12/blob/main/class-10/lab-a/lab-assets/list-bg.png?raw=true");
 
+}
+input{
+    display: inline-block;
+    margin-bottom:30px ;
+}
